@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "301378702774",
+    "project_id": "appzalo-1b02d",
+    "storage_bucket": "appzalo-1b02d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301378702774:android:5c5b33c8e6cc66cee48517",
+        "android_client_info": {
+          "package_name": "com.example.zalo_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0dMzSixsH9DMLfuOae-orY725r3mR1c8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
